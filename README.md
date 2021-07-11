@@ -1,2 +1,6 @@
-# 82u8sa8sdnu8azbns9don8anzd9asnnsacd98znsazcn89aczcnca9zncdn7atcb6sfgdazhcjpsaocd9samjcdnoabgdcnhb9c
-9214807489381748937948197857893285129357821937859859732894783257892347893794765731254637167369816575133471615143580133714698611
+# matrix
+Matrix like animation using HTML5 Canvas. Inspired from [sample code](http://thecodeplayer.com/walkthrough/matrix-rain-animation-html5-canvas-javascript) on [thecodeplayer.com](http://thecodeplayer.com/).
+
+See it in action @ http://parambirs.github.io/matrix
+
+@ 2020-09-05 - added lively customizable options (rainbow / color select) - khuong
